@@ -36,6 +36,10 @@ Los mockups son versiones más detalladas que incluyen colores, botones, logos, 
 ![Umbrales y Alertas](./images/viverosmart_umbrales.jpg)
 *Descripción: Panel de configuración donde el administrador puede establecer los límites críticos (umbrales) de agua y energía antes de que el sistema dispare una alerta.*
 
+
+## link del figma
+https://evade-mesh-23797473.figma.site/
+
 ---
 
 ## 3. Diseño Responsivo (Responsive Design)
