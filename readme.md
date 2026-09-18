@@ -41,10 +41,10 @@ Los mockups son versiones más detalladas que incluyen colores, botones, logos, 
 https://evade-mesh-23797473.figma.site/
 
 ## Autores: 
-Nikolay Gorelkin Wills	
-Jose Fernando Daza 	
-Karla Noelia Choque Temo	
-Pablo Alejandro Maldonado
+*Nikolay Gorelkin Wills*
+*Jose Fernando Daza Arias*
+*Karla Noelia Choque Temo*	
+*Pablo Alejandro Maldonado*
 
 ---
 
