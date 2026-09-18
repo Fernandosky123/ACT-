@@ -40,7 +40,7 @@ Los mockups son versiones más detalladas que incluyen colores, botones, logos, 
 ## link del figma
 https://evade-mesh-23797473.figma.site/
 
-##Autores: 
+## Autores: 
 Nikolay Gorelkin Wills	
 Jose Fernando Daza 	
 Karla Noelia Choque Temo	
